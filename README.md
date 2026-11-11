@@ -69,6 +69,12 @@ Intereses y áreas de trabajo: **agentes inteligentes y sistemas multiagente, mo
 ![Scrum](https://img.shields.io/badge/Scrum-087F8C?style=for-the-badge)
 ![PMBOK](https://img.shields.io/badge/PMBOK-12395D?style=for-the-badge)
 
+## ⭐ Proyecto destacado: IA simbólica y planificación automática
+
+**[Automatic Planning — PDDL Rover](https://github.com/isaiassolis/automatic-planning-pddl-rover)**: modelado de un dominio de rover en PDDL, experimentos con planificadores clásicos de IPC 2018 y visualizador interactivo en JavaScript/SVG.
+
+[Repositorio y código](https://github.com/isaiassolis/automatic-planning-pddl-rover) · [Visualizador en GitHub Pages](https://isaiassolis.github.io/automatic-planning-pddl-rover/visualizer/) *(sujeto a disponibilidad de GitHub Pages)*
+
 ## 🚀 Proyectos e iniciativas
 
 > **Portafolio en construcción.** Aquí incorporaré progresivamente proyectos seleccionados, casos de estudio, decisiones de diseño, demostraciones y resultados verificables. Algunas soluciones comerciales permanecerán privadas.

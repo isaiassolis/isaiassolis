@@ -1,11 +1,11 @@
 <!-- Profile README · Isaías Solís -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0B1220,50:12395D,100:087F8C&text=Isa%C3%ADas%20Sol%C3%ADs&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Technology%20Leadership%20%7C%20Software%20Architecture%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" alt="Isaías Solís — Technology Leadership, Software Architecture and AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0B1220,50:12395D,100:087F8C&text=Isa%C3%ADas%20Sol%C3%ADs&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Technology%20Leadership%20%7C%20Software%20Development%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" alt="Isaías Solís — Technology Leadership, Software Development and AI" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=0B91A1&center=true&vCenter=true&width=820&lines=IT+Project+Management+%26+Technology+Leadership;Software+Architecture+%26+Engineering;Artificial+Intelligence+%26+Data+Science;Innovation+%26+Technology+Education" alt="Áreas profesionales: dirección de proyectos, software, inteligencia artificial e innovación" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=0B91A1&center=true&vCenter=true&width=820&lines=IT+Project+Management+%26+Technology+Leadership;Software+Development+%26+Engineering;Applied+AI+%26+Intelligent+Agents;Automation+with+n8n+%26+LLMs;Innovation+%26+Technology+Education" alt="Áreas profesionales: dirección de proyectos, software, inteligencia artificial e innovación" />
 </p>
 
 <p align="center">
@@ -26,10 +26,10 @@ Actualmente curso una **Maestría en Inteligencia Artificial** y desarrollo solu
 
 | Dirección y gestión | Ingeniería e innovación |
 | :--- | :--- |
-| Dirección de proyectos TI | Arquitectura de software |
+| Dirección de proyectos TI | Diseño y desarrollo de soluciones tecnológicas |
 | Gestión de operaciones y equipos | Desarrollo de aplicaciones |
 | Scrum · PMBOK · mejora de procesos | Inteligencia artificial y Machine Learning |
-| Capacitación y docencia tecnológica | Analítica de datos y automatización |
+| Capacitación y docencia tecnológica | Analítica de datos y automatización inteligente |
 
 ## 🧰 Tecnologías y herramientas
 
@@ -42,6 +42,15 @@ Actualmente curso una **Maestría en Inteligencia Artificial** y desarrollo solu
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Inteligencia artificial, agentes y automatización
+
+Intereses y áreas de trabajo: **agentes inteligentes y sistemas multiagente, modelos de lenguaje (LLM), RAG, planificación automática (PDDL), Machine Learning y automatización con n8n**. Estas áreas combinan formación académica y exploración práctica; no representan certificaciones ni especialización avanzada en todas ellas.
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-12395D?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-087F8C?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/Agentes%20IA-0B91A1?style=for-the-badge)
 
 ### Datos e inteligencia artificial
 
@@ -62,7 +71,7 @@ Actualmente curso una **Maestría en Inteligencia Artificial** y desarrollo solu
 
 ## 🚀 Proyectos e iniciativas
 
-> **Portafolio en construcción.** Aquí incorporaré progresivamente proyectos seleccionados, casos de estudio, arquitectura, demostraciones y resultados verificables. Algunas soluciones comerciales permanecerán privadas.
+> **Portafolio en construcción.** Aquí incorporaré progresivamente proyectos seleccionados, casos de estudio, decisiones de diseño, demostraciones y resultados verificables. Algunas soluciones comerciales permanecerán privadas.
 
 | 🛠️ Diagnóstico tecnológico | 📚 Tecnología educativa |
 | :--- | :--- |
@@ -78,7 +87,11 @@ Actualmente curso una **Maestría en Inteligencia Artificial** y desarrollo solu
 
 ## 🎓 Formación y aprendizaje continuo
 
-- **Maestría en Inteligencia Artificial** — UNIR, en curso.
+- **Maestría en Inteligencia Artificial** — UNIR, en curso (finalización prevista: febrero de 2027).
+- **Áreas académicas trabajadas:** Machine Learning, visión por computadora, razonamiento y planificación automática (PDDL), sistemas multiagente, procesamiento del lenguaje natural y gestión de proyectos de innovación.
+- **Proyecto académico actual:** modelo inteligente de priorización explicable de alertas de ciberseguridad.
+
+*Estas áreas describen formación y proyectos académicos; no son una transcripción del historial oficial de asignaturas.*
 - **Ingeniería en Sistemas Computacionales** — Instituto Tecnológico de Mérida.
 - Experiencia como **docente universitario y facilitador de formación tecnológica**.
 

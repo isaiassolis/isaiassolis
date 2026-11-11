@@ -75,6 +75,12 @@ Intereses y áreas de trabajo: **agentes inteligentes y sistemas multiagente, mo
 
 [Repositorio y código](https://github.com/isaiassolis/automatic-planning-pddl-rover) · [Visualizador en GitHub Pages](https://isaiassolis.github.io/automatic-planning-pddl-rover/visualizer/) *(sujeto a disponibilidad de GitHub Pages)*
 
+## ⭐ Proyecto destacado: clasificación de intenciones y análisis crítico de LLM
+
+**[Banking77 — Transformer & LLM Error Analysis](https://github.com/isaiassolis/banking77-transformer-llm-error-analysis)**: fine-tuning de DistilRoBERTa para 77 intenciones bancarias (**86.79 % de accuracy** en el conjunto de prueba) y evaluación crítica de explicaciones post hoc generadas por Falcon-7B. Resultados académicos, no validados para producción.
+
+[Consultar el caso de estudio](https://github.com/isaiassolis/banking77-transformer-llm-error-analysis)
+
 ## 🚀 Proyectos e iniciativas
 
 > **Portafolio en construcción.** Aquí incorporaré progresivamente proyectos seleccionados, casos de estudio, decisiones de diseño, demostraciones y resultados verificables. Algunas soluciones comerciales permanecerán privadas.

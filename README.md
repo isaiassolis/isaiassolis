@@ -24,55 +24,46 @@ Mi experiencia combina una visión de negocio y gestión con conocimientos técn
 
 **Áreas en las que puedo aportar valor:** gerencia de tecnología, dirección de proyectos TI, coordinación de desarrollo de software, integración de soluciones empresariales e innovación aplicada.
 
-## 🏢 Productos empresariales que dirigí
+## 🏢 Productos empresariales y proyectos tecnológicos que dirigí
 
-Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, lideré equipos y proyectos orientados a resolver necesidades de la industria energética. Estos tres productos son casos de estudio de mi experiencia en **dirección tecnológica, liderazgo de producto, coordinación de ingeniería y desarrollo de software empresarial**.
+Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, participé en la dirección de productos de software y en la coordinación de proyectos multidisciplinarios para la industria energética. Los siguientes son **casos de estudio profesionales** de distintos alcances: desarrollo de producto, liderazgo técnico y gerencia integral.
 
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/isaiassolis/hendu-enterprise-data-management">
-<img src="https://raw.githubusercontent.com/isaiassolis/hendu-enterprise-data-management/main/assets/screenshots/hendu2.png" alt="HENDU — interfaz GIS de activos y pozos" width="100%" />
-</a>
-<br />
-<strong>HENDU</strong>
+<a href="https://github.com/isaiassolis/hendu-enterprise-data-management"><img src="https://raw.githubusercontent.com/isaiassolis/hendu-enterprise-data-management/main/assets/screenshots/hendu2.png" alt="HENDU — interfaz histórica" width="100%"/></a>
+<br/><strong>HENDU</strong>
 </td>
 <td width="50%" valign="top" align="center">
-<a href="https://github.com/isaiassolis/regulation-system-sasisopa">
-<img src="https://raw.githubusercontent.com/isaiassolis/regulation-system-sasisopa/main/assets/screenshots/sasisopa-2.png" alt="Regulation System SASISOPA — tablero de indicadores" width="100%" />
-</a>
-<br />
-<strong>Regulation System SASISOPA</strong>
+<a href="https://github.com/isaiassolis/regulation-system-sasisopa"><img src="https://raw.githubusercontent.com/isaiassolis/regulation-system-sasisopa/main/assets/screenshots/sasisopa-2.png" alt="Regulation System SASISOPA — interfaz histórica" width="100%"/></a>
+<br/><strong>Regulation System SASISOPA</strong>
 </td>
 </tr>
 <tr>
-<td valign="top">
-<strong>Dirección integral del producto y del equipo de ingeniería.</strong> Plataforma de gestión de información técnica y conocimiento para Oil & Gas, con capacidades GIS y extensiones especializadas. Tecnologías documentadas: ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Microsoft Azure.
-<br /><br />
-<a href="https://github.com/isaiassolis/hendu-enterprise-data-management">Explorar el caso HENDU</a>
+<td valign="top"><strong>Dirección integral del producto y del equipo de ingeniería.</strong> Gestión de información técnica y conocimiento para Oil & Gas, GIS y extensiones especializadas. ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Azure.
+<br/><br/><a href="https://github.com/isaiassolis/hendu-enterprise-data-management">Explorar HENDU</a></td>
+<td valign="top"><strong>Liderazgo de proyecto y gerencia técnica.</strong> Solución para actividades, entregables e indicadores de SASISOPA. ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Azure.
+<br/><br/><a href="https://github.com/isaiassolis/regulation-system-sasisopa">Explorar SASISOPA</a></td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<a href="https://github.com/isaiassolis/galapago-petrel-plugins"><img src="https://raw.githubusercontent.com/isaiassolis/galapago-petrel-plugins/main/docs/assets/galapago-save.png" alt="Galápago Performance Suite — presentación visual de plugin Petrel" width="100%"/></a>
+<br/><strong>Galápago Performance Suite</strong>
 </td>
-<td valign="top">
-<strong>Liderazgo del proyecto y gerencia técnica.</strong> Solución independiente para organizar actividades, entregables y seguimiento del SASISOPA en estaciones de servicio, con indicadores y capacidad de intercambio de información con HENDU. Stack confirmado: ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Microsoft Azure.
-<br /><br />
-<a href="https://github.com/isaiassolis/regulation-system-sasisopa">Explorar el caso SASISOPA</a>
+<td valign="top" align="center">
+<a href="https://github.com/isaiassolis/litoteca-nacional-yucatan"><img src="https://raw.githubusercontent.com/isaiassolis/litoteca-nacional-yucatan/main/docs/assets/litoteca-banner.svg" alt="Litoteca Nacional Yucatán — caso de estudio de dirección técnica" width="100%"/></a>
+<br/><strong>Litoteca Nacional Yucatán</strong>
 </td>
+</tr>
+<tr>
+<td valign="top"><strong>Product Owner, líder de producto y desarrollador.</strong> Levantamiento de requerimientos y presentación de propuesta ante directivos de PEMEX; dirección de tres profesionales y desarrollo de plugins para Petrel con C#, .NET y Ocean SDK.
+<br/><br/><a href="https://github.com/isaiassolis/galapago-petrel-plugins">Explorar Galápago</a></td>
+<td valign="top"><strong>Gerente Técnico de proyecto integral.</strong> Coordinación con dirección, tres líderes de proyecto y equipos de desarrollo e instalación: Kalan-Tun, software administrativo, infraestructura, traslado de muestras y gestión de proveedores.
+<br/><br/><a href="https://github.com/isaiassolis/litoteca-nacional-yucatan">Explorar Litoteca</a></td>
 </tr>
 </table>
 
-### Galápago Performance Suite · Petrel plugins
-
-<a href="https://github.com/isaiassolis/galapago-petrel-plugins">
-  <img src="https://raw.githubusercontent.com/isaiassolis/galapago-petrel-plugins/main/docs/assets/galapago-save.png" alt="Galápago Save — presentación visual de la interfaz de resguardo integrada en Petrel" width="78%" />
-</a>
-
-**Product Owner, líder de producto y desarrollador.** Realicé el levantamiento de requerimientos, concebí las soluciones y presenté la propuesta ante directivos de PEMEX. Posteriormente dirigí un **equipo multidisciplinario de tres profesionales** (dos ingenieros en sistemas y una ingeniera geofísica) y participé en la programación de **Galápago Clear** y **Galápago Save**, plugins para Petrel desarrollados con **C#, .NET y Ocean SDK**.
-
-- **Clear:** exploración y depuración de información técnica, identificación de elementos repetidos y comparación de registros geofísicos.
-- **Save:** automatización del resguardo de proyectos, documentación complementaria, fichas técnicas y reportes.
-
-[Explorar el caso Galápago Performance Suite](https://github.com/isaiassolis/galapago-petrel-plugins)
-
-> Los tres repositorios son **casos de estudio profesionales**, no distribuciones de software propietario. Las imágenes de Galápago se presentan como material visual y pueden incluir reconstrucciones que no reproducen exactamente los textos o valores históricos. Las marcas pertenecen a sus respectivos titulares.
+> Estos repositorios son **casos de estudio**, no distribuciones de software propietario. La imagen de Galápago puede ser una recreación visual; el encabezado de Litoteca es una ilustración original, no una fotografía histórica. Las responsabilidades individuales se documentan según mi experiencia profesional; las funciones de cada proyecto se contrastan con la documentación histórica disponible.
 
 ## ⚙️ Ingeniería, innovación y proyectos industriales
 

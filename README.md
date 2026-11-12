@@ -51,7 +51,7 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 <br/><strong>Galápago Performance Suite</strong>
 </td>
 <td valign="top" align="center">
-<a href="https://github.com/isaiassolis/litoteca-nacional-yucatan"><img src="https://raw.githubusercontent.com/isaiassolis/litoteca-nacional-yucatan/main/docs/assets/litoteca-banner.svg" alt="Litoteca Nacional Yucatán — caso de estudio de dirección técnica" width="100%"/></a>
+<a href="https://github.com/isaiassolis/litoteca-nacional-yucatan"><img src="https://raw.githubusercontent.com/isaiassolis/litoteca-nacional-yucatan/main/docs/assets/kalan-tun-dashboard.png" alt="Litoteca Nacional Yucatán — recreación visual del tablero Kalan-Tun" width="100%"/></a>
 <br/><strong>Litoteca Nacional Yucatán</strong>
 </td>
 </tr>
@@ -63,7 +63,7 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 </tr>
 </table>
 
-> Estos repositorios son **casos de estudio**, no distribuciones de software propietario. La imagen de Galápago puede ser una recreación visual; el encabezado de Litoteca es una ilustración original, no una fotografía histórica. Las responsabilidades individuales se documentan según mi experiencia profesional; las funciones de cada proyecto se contrastan con la documentación histórica disponible.
+> Estos repositorios son **casos de estudio**, no distribuciones de software propietario. La imagen de Galápago puede ser una recreación visual; la imagen de Litoteca es una recreación asistida por IA del tablero Kalan-Tun, no una captura documental exacta. Las responsabilidades individuales se documentan según mi experiencia profesional; las funciones de cada proyecto se contrastan con la documentación histórica disponible.
 
 ## ⚙️ Ingeniería, innovación y proyectos industriales
 

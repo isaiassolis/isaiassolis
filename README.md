@@ -1,124 +1,89 @@
-<!-- Profile README · Isaías Solís -->
+<!-- Perfil profesional · Isaías Solís -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0B1220,50:12395D,100:087F8C&text=Isa%C3%ADas%20Sol%C3%ADs&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Technology%20Leadership%20%7C%20Software%20Development%20%7C%20AI&descAlignY=61&descSize=17&animation=fadeIn" alt="Isaías Solís — Technology Leadership, Software Development and AI" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=235&color=0:0B1220,50:12395D,100:087F8C&text=Isa%C3%ADas%20Sol%C3%ADs&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Technology%20Leadership%20%7C%20Enterprise%20Software%20%7C%20Applied%20AI&descAlignY=61&descSize=17&animation=fadeIn" alt="Isaías Solís — Technology Leadership, Enterprise Software and Applied AI" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=0B91A1&center=true&vCenter=true&width=820&lines=IT+Project+Management+%26+Technology+Leadership;Software+Development+%26+Engineering;Applied+AI+%26+Intelligent+Agents;Automation+with+n8n+%26+LLMs;Innovation+%26+Technology+Education" alt="Áreas profesionales: dirección de proyectos, software, inteligencia artificial e innovación" />
+  <strong>Gerencia de Tecnología · Dirección de proyectos TI · Desarrollo de productos de software · IA aplicada</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/isaiassolis"><img src="https://img.shields.io/badge/GitHub-isaiassolis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-M%C3%A9xico-087F8C?style=for-the-badge" alt="México" />
-  <img src="https://img.shields.io/badge/Focus-Technology%20%26%20Innovation-12395D?style=for-the-badge" alt="Technology and innovation" />
+  <img src="https://img.shields.io/badge/Technology-Leadership-12395D?style=for-the-badge" alt="Technology Leadership" />
+  <img src="https://img.shields.io/badge/Enterprise-Software-087F8C?style=for-the-badge" alt="Enterprise Software" />
+  <img src="https://img.shields.io/badge/Location-M%C3%A9xico-0B91A1?style=for-the-badge" alt="México" />
 </p>
 
 ## 👋 Sobre mí
 
-Soy **Isaías Solís**, ingeniero en Sistemas Computacionales con **más de 20 años de experiencia** en dirección de proyectos tecnológicos, gestión de operaciones, ingeniería de software e innovación.
+Soy **Isaías Solís**, ingeniero en Sistemas Computacionales con **más de 20 años de experiencia** en dirección de proyectos tecnológicos, liderazgo de equipos, ingeniería de hardware y software e innovación.
 
-Mi trabajo conecta **objetivos de negocio, equipos multidisciplinarios y soluciones tecnológicas**. He participado en proyectos empresariales del sector energético y en iniciativas de desarrollo de software, automatización, análisis de datos y formación tecnológica.
+Como **Gerente Técnico en Plenumsoft Energy & Sustainability**, dirigí el desarrollo de productos empresariales para la industria energética, entre ellos **HENDU** y **Regulation System SASISOPA**. También lideré proyectos de tecnología especializada relacionados con **simulación industrial, interacción háptica, visualización científica y análisis de datos**.
 
-Actualmente curso una **Maestría en Inteligencia Artificial** y desarrollo soluciones aplicadas a necesidades reales.
+Mi experiencia combina una visión de negocio y gestión con conocimientos técnicos para llevar ideas desde la investigación y el prototipado hasta soluciones de software. Actualmente curso una **Maestría en Inteligencia Artificial en UNIR** y desarrollo proyectos de IA aplicada y automatización.
 
-## 🎯 Especialidades
+**Áreas en las que puedo aportar valor:** gerencia de tecnología, dirección de proyectos TI, coordinación de desarrollo de software, integración de soluciones empresariales e innovación aplicada.
 
-| Dirección y gestión | Ingeniería e innovación |
+## 🏢 Productos empresariales que dirigí
+
+| Producto | Mi responsabilidad y alcance |
 | :--- | :--- |
-| Dirección de proyectos TI | Diseño y desarrollo de soluciones tecnológicas |
-| Gestión de operaciones y equipos | Desarrollo de aplicaciones |
-| Scrum · PMBOK · mejora de procesos | Inteligencia artificial y Machine Learning |
-| Capacitación y docencia tecnológica | Analítica de datos y automatización inteligente |
+| **[HENDU — Enterprise Data & Knowledge Management](https://github.com/isaiassolis/hendu-enterprise-data-management)** | Como **Gerente Técnico**, dirigí el **desarrollo integral del producto y al equipo de ingeniería**. Plataforma para administración de información técnica y conocimiento en Oil & Gas, construida con **ASP.NET MVC, C#/.NET, Entity Framework, SQL Server y Microsoft Azure**. |
+| **[Regulation System SASISOPA](https://github.com/isaiassolis/regulation-system-sasisopa)** | Fui **líder del proyecto y Gerente Técnico**. Producto independiente para administración y seguimiento del SASISOPA en estaciones de servicio, con **capacidad de intercambio de información con HENDU**. |
+
+> Estos repositorios son **casos de estudio profesionales**. Documentan mi participación, el contexto del producto y funcionalidades respaldadas por material histórico; no contienen código propietario ni información confidencial.
+
+## ⚙️ Ingeniería, innovación y proyectos industriales
+
+| Caso de estudio | Aportación |
+| :--- | :--- |
+| **[Haptic Reservoir Exploration](https://github.com/isaiassolis/haptic-reservoir-exploration)** | **Líder técnico e ingeniero de hardware y software.** El desarrollo evolucionó en tres fases, desde un prototipo con **Phantom Desktop** hasta un **plugin para Petrel de Schlumberger**. Proyecto presentado en la OTC. |
+| **[Industrial Water Logistics Simulation](https://github.com/isaiassolis/industrial-water-logistics-simulation)** | **Dirigí** un proyecto de simulación de logística de agua para la industria energética, con tecnologías de visualización, GIS y modelado. Presentado en el **Congreso Mexicano del Petróleo 2019**. |
+| **[Crude Oil Quality Prediction](https://github.com/isaiassolis/crude-oil-quality-prediction)** | Como **Gerente Técnico y coautor**, participé en un proyecto de predicción de calidad del crudo mediante modelos de regresión y análisis de datos históricos, presentado en el **Congreso Mexicano del Petróleo 2019**. |
+| **[Harmful Algal Bloom Monitoring System](https://github.com/isaiassolis/harmful-algal-bloom-monitoring-system)** | **Liderazgo técnico e ingeniería de hardware/software** para un sistema de monitoreo de marea roja: visión computacional, inferencia probabilística y dispositivo autónomo con georreferenciación, probado en campo. |
+
+En estos repositorios distingo entre **propuestas de investigación, prototipos, productos desarrollados y resultados efectivamente verificados**. Los materiales industriales sensibles permanecen privados.
+
+## 🤖 Inteligencia artificial y proyectos académicos
+
+| Proyecto | Descripción |
+| :--- | :--- |
+| **[Automatic Planning — PDDL Rover](https://github.com/isaiassolis/automatic-planning-pddl-rover)** | Modelado de planificación automática en PDDL, experimentación con planificadores clásicos y visualizador interactivo. |
+| **[Banking77 — Transformer & LLM Error Analysis](https://github.com/isaiassolis/banking77-transformer-llm-error-analysis)** | Clasificación de 77 intenciones bancarias con DistilRoBERTa (**86.79 % de accuracy en prueba**) y análisis crítico de explicaciones generadas por LLM. **Resultado académico, no validado para producción.** |
+| **[Healthcare Content Automation](https://github.com/isaiassolis/healthcare-content-automation)** | Caso de automatización de contenido e investigación asistida con IA, con enfoque en procesos y revisión humana. |
+
+**En desarrollo académico:** modelo inteligente de **priorización explicable de alertas de ciberseguridad**, proyecto de la Maestría en IA.
 
 ## 🧰 Tecnologías y herramientas
 
-### Desarrollo de software
+**Desarrollo empresarial e ingeniería:** C# · .NET · ASP.NET MVC · Entity Framework · SQL Server · Microsoft Azure · Python · JavaScript · TypeScript · React · FastAPI · Git/GitHub · Docker.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**IA, datos y automatización:** pandas · NumPy · scikit-learn · Machine Learning · LLM · PDDL · Power BI · R · n8n.
 
-### Inteligencia artificial, agentes y automatización
+**Gestión y liderazgo:** dirección de proyectos TI · liderazgo de equipos · gestión de productos tecnológicos · Scrum · PMBOK · mejora de procesos · coordinación multidisciplinaria.
 
-Intereses y áreas de trabajo: **agentes inteligentes y sistemas multiagente, modelos de lenguaje (LLM), RAG, planificación automática (PDDL), Machine Learning y automatización con n8n**. Estas áreas combinan formación académica y exploración práctica; no representan certificaciones ni especialización avanzada en todas ellas.
+> Mi experiencia incluye tecnologías utilizadas en productos empresariales, herramientas de proyectos propios y áreas de formación en curso; no implica el mismo nivel de especialización en todas ellas.
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-12395D?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-087F8C?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/Agentes%20IA-0B91A1?style=for-the-badge)
+## 🚀 Iniciativas actuales
 
-### Datos e inteligencia artificial
+Desarrollo soluciones con énfasis en utilidad práctica, documentación y validación progresiva:
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- **ComunicAxion Diagnostic & Recovery:** diagnóstico y generación de evidencias para equipos Windows, con componentes en React, TypeScript, Tauri, Rust y Python.
+- **Gestión de servicios técnicos:** sistema de seguimiento de recepción, activos, cotizaciones, cobros y entregas.
+- **Misión Olimpia:** plataforma educativa offline con ejercicios interactivos y seguimiento de actividades.
 
-### Flujo de trabajo y plataformas
+*Estas iniciativas continúan en desarrollo; todavía no todas cuentan con repositorios públicos.*
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-087F8C?style=for-the-badge)
-![PMBOK](https://img.shields.io/badge/PMBOK-12395D?style=for-the-badge)
+## 🎓 Formación y transferencia de conocimiento
 
-## ⭐ Proyecto destacado: IA simbólica y planificación automática
-
-**[Automatic Planning — PDDL Rover](https://github.com/isaiassolis/automatic-planning-pddl-rover)**: modelado de un dominio de rover en PDDL, experimentos con planificadores clásicos de IPC 2018 y visualizador interactivo en JavaScript/SVG.
-
-[Repositorio y código](https://github.com/isaiassolis/automatic-planning-pddl-rover) · [Visualizador en GitHub Pages](https://isaiassolis.github.io/automatic-planning-pddl-rover/visualizer/) *(sujeto a disponibilidad de GitHub Pages)*
-
-## ⭐ Proyecto destacado: clasificación de intenciones y análisis crítico de LLM
-
-**[Banking77 — Transformer & LLM Error Analysis](https://github.com/isaiassolis/banking77-transformer-llm-error-analysis)**: fine-tuning de DistilRoBERTa para 77 intenciones bancarias (**86.79 % de accuracy** en el conjunto de prueba) y evaluación crítica de explicaciones post hoc generadas por Falcon-7B. Resultados académicos, no validados para producción.
-
-[Consultar el caso de estudio](https://github.com/isaiassolis/banking77-transformer-llm-error-analysis)
-
-## 🚀 Proyectos e iniciativas
-
-> **Portafolio en construcción.** Aquí incorporaré progresivamente proyectos seleccionados, casos de estudio, decisiones de diseño, demostraciones y resultados verificables. Algunas soluciones comerciales permanecerán privadas.
-
-| 🛠️ Diagnóstico tecnológico | 📚 Tecnología educativa |
-| :--- | :--- |
-| **ComunicAxion Diagnostic & Recovery** — herramientas para diagnóstico de equipos Windows, validación de evidencias y reportes. | **Misión Olimpia** — plataforma educativa offline con actividades interactivas y seguimiento del aprendizaje. |
-| **Tecnologías:** React, TypeScript, Tauri, Rust, Python. | **Tecnologías:** HTML, CSS, JavaScript. |
-| *Documentación pública pendiente.* | *Documentación pública pendiente.* |
-
-| 🧩 Software empresarial | 🤖 IA aplicada |
-| :--- | :--- |
-| **Gestión de servicios técnicos** — flujos de recepción, activos, cotizaciones, cobros y seguimiento. | **Priorización explicable de alertas de ciberseguridad** — proyecto académico de IA orientado al análisis y priorización de alertas. |
-| **Tecnologías:** React, TypeScript, FastAPI, SQLAlchemy. | **Enfoque:** Machine Learning, explicabilidad y ciberseguridad. |
-| *Documentación pública pendiente.* | *Investigación y desarrollo en curso.* |
-
-## 🎓 Formación y aprendizaje continuo
-
-- **Maestría en Inteligencia Artificial** — UNIR, en curso (finalización prevista: febrero de 2027).
-- **Áreas académicas trabajadas:** Machine Learning, visión por computadora, razonamiento y planificación automática (PDDL), sistemas multiagente, procesamiento del lenguaje natural y gestión de proyectos de innovación.
-- **Proyecto académico actual:** modelo inteligente de priorización explicable de alertas de ciberseguridad.
-
-*Estas áreas describen formación y proyectos académicos; no son una transcripción del historial oficial de asignaturas.*
-- **Ingeniería en Sistemas Computacionales** — Instituto Tecnológico de Mérida.
-- Experiencia como **docente universitario y facilitador de formación tecnológica**.
-
-## 📊 Actividad en GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=isaiassolis&hide_border=true&theme=transparent&ring=087F8C&fire=0B91A1&currStreakLabel=0B91A1" height="165" alt="Racha de contribuciones de GitHub" />
-</p>
-
-> Esta cuenta es nueva. Las métricas reflejan únicamente la actividad registrada aquí y crecerán conforme incorpore proyectos públicos.
+- **Maestría en Inteligencia Artificial — UNIR**, en curso.
+- **Ingeniería en Sistemas Computacionales — Instituto Tecnológico de Mérida**.
+- Experiencia como **docente y facilitador** en formación tecnológica, incluyendo programación, análisis de datos, herramientas de desarrollo, gestión ágil y tecnologías digitales.
 
 ## 🤝 Contacto
 
 <p align="center">
-  <a href="https://github.com/isaiassolis"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/isaiassolis"><img src="https://img.shields.io/badge/GitHub-isaiassolis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Isaías Solís" /></a>
 </p>
 
-<p align="center"><strong>Tecnología, liderazgo e innovación para resolver problemas reales.</strong></p>
+<p align="center"><strong>Dirección tecnológica, desarrollo de productos e innovación para resolver problemas reales.</strong></p>

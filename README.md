@@ -26,6 +26,20 @@ Mi experiencia combina una visión de negocio y gestión con conocimientos técn
 
 ## 🏢 Productos empresariales que dirigí
 
+### HENDU · Caso destacado de liderazgo tecnológico
+
+<p align="center">
+  <a href="https://github.com/isaiassolis/hendu-enterprise-data-management">
+    <img src="https://raw.githubusercontent.com/isaiassolis/hendu-enterprise-data-management/main/assets/screenshots/hendu2.png" alt="HENDU: plataforma empresarial con visualización geoespacial de activos" width="85%" />
+  </a>
+</p>
+
+Como **Gerente Técnico de Plenumsoft Energy & Sustainability**, dirigí el desarrollo integral de **HENDU** y al equipo de ingeniería. La plataforma integró administración de información técnica, herramientas GIS y extensiones especializadas para la industria energética, utilizando **ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Microsoft Azure**.
+
+[Ver el caso de estudio y sus capturas históricas](https://github.com/isaiassolis/hendu-enterprise-data-management).
+
+
+
 | Producto | Mi responsabilidad y alcance |
 | :--- | :--- |
 | **[HENDU — Enterprise Data & Knowledge Management](https://github.com/isaiassolis/hendu-enterprise-data-management)** | Como **Gerente Técnico**, dirigí el **desarrollo integral del producto y al equipo de ingeniería**. Plataforma para administración de información técnica y conocimiento en Oil & Gas, construida con **ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL + PostGIS y Microsoft Azure**. |

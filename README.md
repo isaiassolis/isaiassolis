@@ -28,7 +28,7 @@ Mi experiencia combina una visión de negocio y gestión con conocimientos técn
 
 | Producto | Mi responsabilidad y alcance |
 | :--- | :--- |
-| **[HENDU — Enterprise Data & Knowledge Management](https://github.com/isaiassolis/hendu-enterprise-data-management)** | Como **Gerente Técnico**, dirigí el **desarrollo integral del producto y al equipo de ingeniería**. Plataforma para administración de información técnica y conocimiento en Oil & Gas, construida con **ASP.NET MVC, C#/.NET, Entity Framework, SQL Server y Microsoft Azure**. |
+| **[HENDU — Enterprise Data & Knowledge Management](https://github.com/isaiassolis/hendu-enterprise-data-management)** | Como **Gerente Técnico**, dirigí el **desarrollo integral del producto y al equipo de ingeniería**. Plataforma para administración de información técnica y conocimiento en Oil & Gas, construida con **ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL + PostGIS y Microsoft Azure**. |
 | **[Regulation System SASISOPA](https://github.com/isaiassolis/regulation-system-sasisopa)** | Fui **líder del proyecto y Gerente Técnico**. Producto independiente para administración y seguimiento del SASISOPA en estaciones de servicio, con **capacidad de intercambio de información con HENDU**. |
 
 > Estos repositorios son **casos de estudio profesionales**. Documentan mi participación, el contexto del producto y funcionalidades respaldadas por material histórico; no contienen código propietario ni información confidencial.
@@ -56,7 +56,7 @@ En estos repositorios distingo entre **propuestas de investigación, prototipos,
 
 ## 🧰 Tecnologías y herramientas
 
-**Desarrollo empresarial e ingeniería:** C# · .NET · ASP.NET MVC · Entity Framework · SQL Server · Microsoft Azure · Python · JavaScript · TypeScript · React · FastAPI · Git/GitHub · Docker.
+**Desarrollo empresarial e ingeniería:** C# · .NET · ASP.NET MVC · Entity Framework · PostgreSQL + PostGIS · Microsoft Azure · Python · JavaScript · TypeScript · React · FastAPI · Git/GitHub · Docker.
 
 **IA, datos y automatización:** pandas · NumPy · scikit-learn · Machine Learning · LLM · PDDL · Power BI · R · n8n.
 

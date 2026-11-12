@@ -96,15 +96,33 @@ En estos repositorios distingo entre **propuestas de investigación, prototipos,
 
 > Mi experiencia incluye tecnologías utilizadas en productos empresariales, herramientas de proyectos propios y áreas de formación en curso; no implica el mismo nivel de especialización en todas ellas.
 
-## 🚀 Iniciativas actuales
+## 🚀 Productos propios y prototipos recientes
 
-Desarrollo soluciones con énfasis en utilidad práctica, documentación y validación progresiva:
+Además de los proyectos empresariales e industriales, desarrollo productos propios con foco en procesos operativos, aprendizaje y automatización.
 
-- **ComunicAxion Diagnostic & Recovery:** diagnóstico y generación de evidencias para equipos Windows, con componentes en React, TypeScript, Tauri, Rust y Python.
-- **Gestión de servicios técnicos:** sistema de seguimiento de recepción, activos, cotizaciones, cobros y entregas.
-- **Misión Olimpia:** plataforma educativa offline con ejercicios interactivos y seguimiento de actividades.
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/isaiassolis/comunicaxion-service-showcase"><img src="https://raw.githubusercontent.com/isaiassolis/comunicaxion-service-showcase/main/screenshots/01-dashboard.png" alt="Orqentia — dashboard real del prototipo de gestión de talleres" width="100%"/></a>
+<br/><strong>Orqentia · ComunicAxion</strong>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/isaiassolis/mision-olimpia-showcase"><img src="https://raw.githubusercontent.com/isaiassolis/mision-olimpia-showcase/main/screenshots/01-bienvenida.png" alt="Misión Olimpia — pantalla de bienvenida del prototipo educativo" width="100%"/></a>
+<br/><strong>Misión Olimpia</strong>
+</td>
+</tr>
+<tr>
+<td valign="top">Prototipo full-stack para talleres de servicio técnico: recepciones, activos, órdenes, cotizaciones y seguimiento operativo. <strong>React, TypeScript, FastAPI y SQLAlchemy</strong>. Capturas reales; código privado.
+<br/><br/><a href="https://github.com/isaiassolis/comunicaxion-service-showcase">Explorar Orqentia</a></td>
+<td valign="top">Plataforma educativa offline con retos matemáticos, simulacro, persistencia local y gamificación. <strong>HTML, CSS y JavaScript</strong>; documentación y capturas reales, sin código fuente público.
+<br/><br/><a href="https://github.com/isaiassolis/mision-olimpia-showcase">Explorar Misión Olimpia</a></td>
+</tr>
+</table>
 
-*Estas iniciativas continúan en desarrollo; todavía no todas cuentan con repositorios públicos.*
+- **ComunicAxion Diagnostic & Recovery:** prototipo de diagnóstico y evidencias para Windows, con React, TypeScript, Tauri, Rust y Python; desarrollo privado.
+- **Mini ERP modular:** investigación y diseño arquitectónico en curso; no se presenta todavía como producto funcional.
+
+> Los casos públicos de Orqentia y Misión Olimpia documentan prototipos en evolución; no son demostraciones de despliegue comercial ni repositorios de código fuente.
 
 ## 🎓 Formación y transferencia de conocimiento
 

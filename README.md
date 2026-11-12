@@ -108,6 +108,17 @@ Desarrollo soluciones con énfasis en utilidad práctica, documentación y valid
 - **Ingeniería en Sistemas Computacionales — Instituto Tecnológico de Mérida**.
 - Experiencia como **docente y facilitador** en formación tecnológica, incluyendo programación, análisis de datos, herramientas de desarrollo, gestión ágil y tecnologías digitales.
 
+### Talleres prácticos de desarrollo con Unity y C#
+
+Como parte de mi experiencia como **instructor y facilitador**, utilicé proyectos de videojuegos 2D para enseñar conceptos de programación mediante ejercicios prácticos:
+
+| Material didáctico | Conceptos trabajados |
+| :--- | :--- |
+| **[Chrome Dino · Unity 2D](https://github.com/isaiassolis/unity-2d-chrome-dino-workshop)** | Física y colisiones 2D, animaciones, obstáculos aleatorios, puntuación y control del juego. |
+| **[DrawFight · Plataformas 2D](https://github.com/isaiassolis/unity-2d-platformer-workshop)** | Movimiento de personajes, seguimiento de cámara, recolección, menús y estados de victoria y derrota. |
+
+Estos repositorios documentan **material de apoyo utilizado en talleres**, no productos comerciales. Incluyen proyectos editables de Unity y ejemplos de código C#.
+
 ## 🤝 Contacto
 
 <p align="center">

@@ -26,26 +26,40 @@ Mi experiencia combina una visión de negocio y gestión con conocimientos técn
 
 ## 🏢 Productos empresariales que dirigí
 
-### HENDU · Caso destacado de liderazgo tecnológico
+Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, lideré equipos y proyectos orientados a resolver necesidades de la industria energética. Estos dos productos son casos de estudio de mi experiencia en **dirección tecnológica, coordinación de ingeniería y desarrollo de software empresarial**.
 
-<p align="center">
-  <a href="https://github.com/isaiassolis/hendu-enterprise-data-management">
-    <img src="https://raw.githubusercontent.com/isaiassolis/hendu-enterprise-data-management/main/assets/screenshots/hendu2.png" alt="HENDU: plataforma empresarial con visualización geoespacial de activos" width="85%" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/isaiassolis/hendu-enterprise-data-management">
+<img src="https://raw.githubusercontent.com/isaiassolis/hendu-enterprise-data-management/main/assets/screenshots/hendu2.png" alt="HENDU — interfaz GIS de activos y pozos" width="100%" />
+</a>
+<br />
+<strong>HENDU</strong>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/isaiassolis/regulation-system-sasisopa">
+<img src="https://raw.githubusercontent.com/isaiassolis/regulation-system-sasisopa/main/assets/screenshots/sasisopa-2.png" alt="Regulation System SASISOPA — tablero de indicadores" width="100%" />
+</a>
+<br />
+<strong>Regulation System SASISOPA</strong>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<strong>Dirección integral del producto y del equipo de ingeniería.</strong> Plataforma de gestión de información técnica y conocimiento para Oil & Gas, con capacidades GIS y extensiones especializadas. Tecnologías documentadas: ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Microsoft Azure.
+<br /><br />
+<a href="https://github.com/isaiassolis/hendu-enterprise-data-management">Explorar el caso HENDU</a>
+</td>
+<td valign="top">
+<strong>Liderazgo del proyecto y gerencia técnica.</strong> Solución independiente para organizar actividades, entregables y seguimiento del SASISOPA en estaciones de servicio, con indicadores y capacidad de intercambio de información con HENDU. No se atribuyen tecnologías específicas sin confirmación.
+<br /><br />
+<a href="https://github.com/isaiassolis/regulation-system-sasisopa">Explorar el caso SASISOPA</a>
+</td>
+</tr>
+</table>
 
-Como **Gerente Técnico de Plenumsoft Energy & Sustainability**, dirigí el desarrollo integral de **HENDU** y al equipo de ingeniería. La plataforma integró administración de información técnica, herramientas GIS y extensiones especializadas para la industria energética, utilizando **ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Microsoft Azure**.
-
-[Ver el caso de estudio y sus capturas históricas](https://github.com/isaiassolis/hendu-enterprise-data-management).
-
-
-
-| Producto | Mi responsabilidad y alcance |
-| :--- | :--- |
-| **[HENDU — Enterprise Data & Knowledge Management](https://github.com/isaiassolis/hendu-enterprise-data-management)** | Como **Gerente Técnico**, dirigí el **desarrollo integral del producto y al equipo de ingeniería**. Plataforma para administración de información técnica y conocimiento en Oil & Gas, construida con **ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL + PostGIS y Microsoft Azure**. |
-| **[Regulation System SASISOPA](https://github.com/isaiassolis/regulation-system-sasisopa)** | Fui **líder del proyecto y Gerente Técnico**. Producto independiente para administración y seguimiento del SASISOPA en estaciones de servicio, con **capacidad de intercambio de información con HENDU**. |
-
-> Estos repositorios son **casos de estudio profesionales**. Documentan mi participación, el contexto del producto y funcionalidades respaldadas por material histórico; no contienen código propietario ni información confidencial.
+> Ambos repositorios son **casos de estudio profesionales** con material visual histórico. No contienen código fuente propietario ni constituyen demostraciones activas de los productos. Las marcas y materiales originales pertenecen a sus respectivos titulares.
 
 ## ⚙️ Ingeniería, innovación y proyectos industriales
 

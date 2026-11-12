@@ -52,7 +52,7 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 <a href="https://github.com/isaiassolis/hendu-enterprise-data-management">Explorar el caso HENDU</a>
 </td>
 <td valign="top">
-<strong>Liderazgo del proyecto y gerencia técnica.</strong> Solución independiente para organizar actividades, entregables y seguimiento del SASISOPA en estaciones de servicio, con indicadores y capacidad de intercambio de información con HENDU. No se atribuyen tecnologías específicas sin confirmación.
+<strong>Liderazgo del proyecto y gerencia técnica.</strong> Solución independiente para organizar actividades, entregables y seguimiento del SASISOPA en estaciones de servicio, con indicadores y capacidad de intercambio de información con HENDU. Stack confirmado: ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Microsoft Azure.
 <br /><br />
 <a href="https://github.com/isaiassolis/regulation-system-sasisopa">Explorar el caso SASISOPA</a>
 </td>

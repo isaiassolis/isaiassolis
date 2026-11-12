@@ -18,7 +18,7 @@
 
 Soy **Isaías Solís**, ingeniero en Sistemas Computacionales con **más de 20 años de experiencia** en dirección de proyectos tecnológicos, liderazgo de equipos, ingeniería de hardware y software e innovación.
 
-Como **Gerente Técnico en Plenumsoft Energy & Sustainability**, dirigí el desarrollo de productos empresariales para la industria energética, entre ellos **HENDU** y **Regulation System SASISOPA**. También lideré proyectos de tecnología especializada relacionados con **simulación industrial, interacción háptica, visualización científica y análisis de datos**.
+Como **Gerente Técnico en Plenumsoft Energy & Sustainability**, dirigí el desarrollo de productos empresariales para la industria energética, entre ellos **HENDU**, **Regulation System SASISOPA** y **Galápago Performance Suite**. También lideré proyectos de tecnología especializada relacionados con **simulación industrial, interacción háptica, visualización científica y análisis de datos**.
 
 Mi experiencia combina una visión de negocio y gestión con conocimientos técnicos para llevar ideas desde la investigación y el prototipado hasta soluciones de software. Actualmente curso una **Maestría en Inteligencia Artificial en UNIR** y desarrollo proyectos de IA aplicada y automatización.
 
@@ -26,7 +26,7 @@ Mi experiencia combina una visión de negocio y gestión con conocimientos técn
 
 ## 🏢 Productos empresariales que dirigí
 
-Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, lideré equipos y proyectos orientados a resolver necesidades de la industria energética. Estos dos productos son casos de estudio de mi experiencia en **dirección tecnológica, coordinación de ingeniería y desarrollo de software empresarial**.
+Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, lideré equipos y proyectos orientados a resolver necesidades de la industria energética. Estos tres productos son casos de estudio de mi experiencia en **dirección tecnológica, liderazgo de producto, coordinación de ingeniería y desarrollo de software empresarial**.
 
 <table>
 <tr>
@@ -59,7 +59,20 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 </tr>
 </table>
 
-> Ambos repositorios son **casos de estudio profesionales** con material visual histórico. No contienen código fuente propietario ni constituyen demostraciones activas de los productos. Las marcas y materiales originales pertenecen a sus respectivos titulares.
+### Galápago Performance Suite · Petrel plugins
+
+<a href="https://github.com/isaiassolis/galapago-petrel-plugins">
+  <img src="https://raw.githubusercontent.com/isaiassolis/galapago-petrel-plugins/main/docs/assets/galapago-save.png" alt="Galápago Save — presentación visual de la interfaz de resguardo integrada en Petrel" width="78%" />
+</a>
+
+**Product Owner, líder de producto y desarrollador.** Realicé el levantamiento de requerimientos, concebí las soluciones y presenté la propuesta ante directivos de PEMEX. Posteriormente dirigí un **equipo multidisciplinario de tres profesionales** (dos ingenieros en sistemas y una ingeniera geofísica) y participé en la programación de **Galápago Clear** y **Galápago Save**, plugins para Petrel desarrollados con **C#, .NET y Ocean SDK**.
+
+- **Clear:** exploración y depuración de información técnica, identificación de elementos repetidos y comparación de registros geofísicos.
+- **Save:** automatización del resguardo de proyectos, documentación complementaria, fichas técnicas y reportes.
+
+[Explorar el caso Galápago Performance Suite](https://github.com/isaiassolis/galapago-petrel-plugins)
+
+> Los tres repositorios son **casos de estudio profesionales**, no distribuciones de software propietario. Las imágenes de Galápago se presentan como material visual y pueden incluir reconstrucciones que no reproducen exactamente los textos o valores históricos. Las marcas pertenecen a sus respectivos titulares.
 
 ## ⚙️ Ingeniería, innovación y proyectos industriales
 
@@ -84,7 +97,7 @@ En estos repositorios distingo entre **propuestas de investigación, prototipos,
 
 ## 🧰 Tecnologías y herramientas
 
-**Desarrollo empresarial e ingeniería:** C# · .NET · ASP.NET MVC · Entity Framework · PostgreSQL + PostGIS · Microsoft Azure · Python · JavaScript · TypeScript · React · FastAPI · Git/GitHub · Docker.
+**Desarrollo empresarial e ingeniería:** C# · .NET · Ocean SDK · ASP.NET MVC · Entity Framework · PostgreSQL + PostGIS · Microsoft Azure · Python · JavaScript · TypeScript · React · FastAPI · Git/GitHub · Docker.
 
 **IA, datos y automatización:** pandas · NumPy · scikit-learn · Machine Learning · LLM · PDDL · Power BI · R · n8n.
 

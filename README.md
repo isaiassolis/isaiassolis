@@ -116,8 +116,9 @@ Como parte de mi experiencia como **instructor y facilitador**, utilicé proyect
 | :--- | :--- |
 | **[Chrome Dino · Unity 2D](https://github.com/isaiassolis/unity-2d-chrome-dino-workshop)** | Física y colisiones 2D, animaciones, obstáculos aleatorios, puntuación y control del juego. |
 | **[DrawFight · Plataformas 2D](https://github.com/isaiassolis/unity-2d-platformer-workshop)** | Movimiento de personajes, seguimiento de cámara, recolección, menús y estados de victoria y derrota. |
+| **[Memorias de Primavera · Novela visual](https://github.com/isaiassolis/unity-visual-novel-workshop)** | Taller de narrativa interactiva con Unity y Naninovel: diálogos, personajes, expresiones, decisiones y finales; incluye guía PDF y guion didáctico, sin redistribuir el framework comercial. |
 
-Estos repositorios documentan **material de apoyo utilizado en talleres**, no productos comerciales. Incluyen proyectos editables de Unity y ejemplos de código C#.
+Estos repositorios documentan **material de apoyo utilizado en talleres**, no productos comerciales. Los talleres de videojuegos incluyen proyectos Unity y ejemplos en C#; el taller de novela visual ofrece un guion `.nani` y un tutorial PDF para usar con una instalación autorizada de Naninovel.
 
 ## 🤝 Contacto
 

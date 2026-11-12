@@ -102,20 +102,22 @@ Además de los proyectos empresariales e industriales, desarrollo productos prop
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/isaiassolis/comunicaxion-service-showcase"><img src="https://raw.githubusercontent.com/isaiassolis/comunicaxion-service-showcase/main/screenshots/01-dashboard.png" alt="Orqentia — dashboard real del prototipo de gestión de talleres" width="100%"/></a>
-<br/><strong>Orqentia · ComunicAxion</strong>
+<td width="50%" valign="top">
+<h3>🔧 Orqentia · ComunicAxion</h3>
+<strong>Gestión de servicios técnicos</strong>
+<p>Prototipo full-stack para administrar recepciones, equipos, órdenes de servicio, cotizaciones y seguimiento operativo.</p>
+<p><strong>Tecnologías:</strong> React · TypeScript · FastAPI · SQLAlchemy</p>
+<p><strong>Estado:</strong> prototipo en desarrollo; código privado y capturas reales disponibles.</p>
+<p><a href="https://github.com/isaiassolis/comunicaxion-service-showcase"><strong>Ver proyecto y capturas →</strong></a></p>
 </td>
-<td width="50%" valign="top" align="center">
-<a href="https://github.com/isaiassolis/mision-olimpia-showcase"><img src="https://raw.githubusercontent.com/isaiassolis/mision-olimpia-showcase/main/screenshots/01-bienvenida.png" alt="Misión Olimpia — pantalla de bienvenida del prototipo educativo" width="100%"/></a>
-<br/><strong>Misión Olimpia</strong>
+<td width="50%" valign="top">
+<h3>🧩 Misión Olimpia</h3>
+<strong>Aprendizaje matemático interactivo</strong>
+<p>Plataforma educativa offline con retos de geometría, simulacro, recuperación de sesiones y gamificación.</p>
+<p><strong>Tecnologías:</strong> HTML · CSS · JavaScript · Node.js (pruebas)</p>
+<p><strong>Estado:</strong> prototipo funcional local; código privado y capturas reales disponibles.</p>
+<p><a href="https://github.com/isaiassolis/mision-olimpia-showcase"><strong>Ver proyecto y capturas →</strong></a></p>
 </td>
-</tr>
-<tr>
-<td valign="top">Prototipo full-stack para talleres de servicio técnico: recepciones, activos, órdenes, cotizaciones y seguimiento operativo. <strong>React, TypeScript, FastAPI y SQLAlchemy</strong>. Capturas reales; código privado.
-<br/><br/><a href="https://github.com/isaiassolis/comunicaxion-service-showcase">Explorar Orqentia</a></td>
-<td valign="top">Plataforma educativa offline con retos matemáticos, simulacro, persistencia local y gamificación. <strong>HTML, CSS y JavaScript</strong>; documentación y capturas reales, sin código fuente público.
-<br/><br/><a href="https://github.com/isaiassolis/mision-olimpia-showcase">Explorar Misión Olimpia</a></td>
 </tr>
 </table>
 

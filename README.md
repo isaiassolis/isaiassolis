@@ -144,9 +144,11 @@ Como parte de mi experiencia como **instructor y facilitador**, utilicé proyect
 
 Estos repositorios documentan **material de apoyo utilizado en talleres**, no productos comerciales. Los talleres de videojuegos incluyen proyectos Unity y ejemplos en C#; el taller de novela visual ofrece un guion `.nani` y un tutorial PDF para usar con una instalación autorizada de Naninovel.
 
-##  Contacto
+## Contacto
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/isaiassolisaranda/"><img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Isaías Solís" /></a>
+  <a href="mailto:isolis151979@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto%20profesional-12395D?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Isaías Solís" /></a>
   <a href="https://github.com/isaiassolis"><img src="https://img.shields.io/badge/GitHub-isaiassolis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Isaías Solís" /></a>
 </p>
 

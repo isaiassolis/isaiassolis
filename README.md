@@ -16,17 +16,23 @@
 
 ## Sobre mí
 
-Soy **Isaías Solís**, ingeniero en Sistemas Computacionales con **más de 20 años de experiencia** en dirección de proyectos tecnológicos, liderazgo de equipos, ingeniería de hardware y software e innovación.
+Soy **Isaías Solís**, ingeniero en Sistemas Computacionales con **más de 20 años de experiencia** en tecnología, dirección de proyectos, administración de infraestructura, liderazgo de equipos y desarrollo de soluciones de hardware y software.
 
-Como **Gerente Técnico en Plenumsoft Energy & Sustainability**, dirigí el desarrollo de productos empresariales para la industria energética, entre ellos **HENDU**, **Regulation System SASISOPA** y **Galápago Performance Suite**. También lideré proyectos de tecnología especializada relacionados con **simulación industrial, interacción háptica, visualización científica y análisis de datos**.
+Mi trayectoria comenzó en la administración de sistemas e infraestructura tecnológica. Desde muy joven asumí responsabilidades de dirección: **a los 19 años ya estaba al frente de la infraestructura tecnológica de Talleres Gráficos del Sudeste**, vinculada al Diario del Sureste.
 
-Mi experiencia combina una visión de negocio y gestión con conocimientos técnicos para llevar ideas desde la investigación y el prototipado hasta soluciones de software. Curse una **maestría en Ingeniería Mecatrónica**, y actualmente curso una **Maestría en Inteligencia Artificial**, desarrollo proyectos de IA aplicada y automatización.
+Posteriormente amplié mi experiencia hacia el desarrollo de software empresarial, la investigación aplicada y la coordinación de proyectos multidisciplinarios.
 
-**Áreas en las que puedo aportar valor:** gerencia de tecnología, dirección de proyectos TI, coordinación de desarrollo de software, integración de soluciones empresariales e innovación aplicada.
+Como **Gerente Técnico en Plenumsoft Energy & Sustainability**, dirigí el desarrollo de productos y proyectos tecnológicos para la industria energética. Entre ellos destacan **HENDU**, **Regulation System SASISOPA**, **Galápago Performance Suite** y mi participación en la dirección técnica del proyecto de la **Litoteca Nacional Yucatán**.
 
-## Productos empresariales y proyectos tecnológicos que dirigí
+He trabajado tanto en la definición de soluciones como en su ejecución: levantamiento de requerimientos, diseño tecnológico, coordinación de equipos, programación, integración de sistemas, infraestructura y seguimiento de proyectos.
 
-Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, participé en la dirección de productos de software y en la coordinación de proyectos multidisciplinarios para la industria energética. Los siguientes son **casos de estudio profesionales** de distintos alcances: desarrollo de producto, liderazgo técnico y gerencia integral.
+Actualmente complemento esta experiencia con estudios de **Maestría en Inteligencia Artificial en UNIR**, desarrollo de productos propios y proyectos de automatización.
+
+Me interesa especialmente la tecnología que resuelve problemas reales y puede convertirse en soluciones útiles, sostenibles y fáciles de utilizar.
+
+## Productos empresariales y proyectos tecnológicos
+
+Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, dirigí productos de software empresarial y coordiné proyectos multidisciplinarios para la industria energética.
 
 <table>
 <tr>
@@ -40,14 +46,12 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>Dirección integral del producto y del equipo de ingeniería.</strong> Gestión de información técnica y conocimiento para Oil & Gas, GIS y extensiones especializadas. ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Azure.
-<br/><br/><a href="https://github.com/isaiassolis/hendu-enterprise-data-management">Explorar HENDU</a></td>
-<td valign="top"><strong>Liderazgo de proyecto y gerencia técnica.</strong> Solución para actividades, entregables e indicadores de SASISOPA. ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Azure.
-<br/><br/><a href="https://github.com/isaiassolis/regulation-system-sasisopa">Explorar SASISOPA</a></td>
+<td valign="top">Como <strong>Gerente Técnico</strong>, dirigí el desarrollo integral de HENDU y al equipo de ingeniería encargado de construirlo. Creamos una plataforma de información técnica y conocimiento para Oil & Gas, con gestión geográfica de activos, archivos, catálogos y extensiones especializadas.<br/><br/><strong>Tecnologías:</strong> ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Azure.<br/><br/><a href="https://github.com/isaiassolis/hendu-enterprise-data-management">Conocer HENDU</a></td>
+<td valign="top">Lideré el desarrollo de un producto independiente para organizar actividades, entregables, indicadores y procesos de implementación y seguimiento de SASISOPA. La solución podía intercambiar información con HENDU.<br/><br/><strong>Tecnologías:</strong> ASP.NET MVC, C#/.NET, Entity Framework, PostgreSQL/PostGIS y Azure.<br/><br/><a href="https://github.com/isaiassolis/regulation-system-sasisopa">Conocer SASISOPA</a></td>
 </tr>
 <tr>
 <td valign="top" align="center">
-<a href="https://github.com/isaiassolis/galapago-petrel-plugins"><img src="https://raw.githubusercontent.com/isaiassolis/galapago-petrel-plugins/main/docs/assets/galapago-save.png" alt="Galápago Performance Suite — presentación visual de plugin Petrel" width="100%"/></a>
+<a href="https://github.com/isaiassolis/galapago-petrel-plugins"><img src="https://raw.githubusercontent.com/isaiassolis/galapago-petrel-plugins/main/docs/assets/galapago-save.png" alt="Galápago Performance Suite — representación visual del plugin Petrel" width="100%"/></a>
 <br/><strong>Galápago Performance Suite</strong>
 </td>
 <td valign="top" align="center">
@@ -56,100 +60,99 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 </td>
 </tr>
 <tr>
-<td valign="top"><strong>Product Owner, líder de producto y desarrollador.</strong> Levantamiento de requerimientos y presentación de propuesta ante directivos de PEMEX; dirección de tres profesionales y desarrollo de plugins para Petrel con C#, .NET y Ocean SDK.
-<br/><br/><a href="https://github.com/isaiassolis/galapago-petrel-plugins">Explorar Galápago</a></td>
-<td valign="top"><strong>Gerente Técnico de proyecto integral.</strong> Coordinación con dirección, tres líderes de proyecto y equipos de desarrollo e instalación: Kalan-Tun, software administrativo, infraestructura, traslado de muestras y gestión de proveedores.
-<br/><br/><a href="https://github.com/isaiassolis/litoteca-nacional-yucatan">Explorar Litoteca</a></td>
+<td valign="top">Como <strong>Product Owner, líder de producto y desarrollador</strong>, realicé el levantamiento de requerimientos y presenté una propuesta tecnológica ante directivos de PEMEX. Lideré a tres profesionales y participé en el desarrollo de <strong>Galápago Clear</strong> y <strong>Galápago Save</strong>, plugins para Petrel.<br/><br/><strong>Tecnologías:</strong> C#, .NET y Ocean SDK.<br/><br/><a href="https://github.com/isaiassolis/galapago-petrel-plugins">Conocer Galápago</a></td>
+<td valign="top">Participé como <strong>Gerente Técnico del proyecto integral</strong>, coordinando con la dirección, tres líderes de proyecto y equipos de desarrollo e instalación. Mi trabajo abarcó Kalan-Tun, software administrativo, infraestructura tecnológica, traslado de muestras y gestión de proveedores.<br/><br/><a href="https://github.com/isaiassolis/litoteca-nacional-yucatan">Conocer la Litoteca</a></td>
 </tr>
 </table>
 
-> Estos repositorios son **casos de estudio**, no distribuciones de software propietario. Las responsabilidades individuales se documentan según mi experiencia profesional; las funciones de cada proyecto se contrastan con la documentación histórica disponible.
+## Ingeniería, investigación e innovación industrial
 
-## Ingeniería, innovación y proyectos industriales
+Además del software empresarial, he trabajado en proyectos de investigación y desarrollo que combinan programación, hardware, simulación, análisis de datos y necesidades especializadas de la industria.
 
-| Caso de estudio | Aportación |
+| Proyecto | Mi participación |
 | :--- | :--- |
-| **[Haptic Reservoir Exploration](https://github.com/isaiassolis/haptic-reservoir-exploration)** | **Líder técnico e ingeniero de hardware y software.** El desarrollo evolucionó en tres fases, desde un prototipo con **Phantom Desktop** hasta un **plugin para Petrel de Schlumberger**. Proyecto presentado en la OTC. |
-| **[Industrial Water Logistics Simulation](https://github.com/isaiassolis/industrial-water-logistics-simulation)** | **Dirigí** un proyecto de simulación de logística de agua para la industria energética, con tecnologías de visualización, GIS y modelado. Presentado en el **Congreso Mexicano del Petróleo 2019**. |
-| **[Crude Oil Quality Prediction](https://github.com/isaiassolis/crude-oil-quality-prediction)** | Como **Gerente Técnico y coautor**, participé en un proyecto de predicción de calidad del crudo mediante modelos de regresión y análisis de datos históricos, presentado en el **Congreso Mexicano del Petróleo 2019**. |
-| **[Harmful Algal Bloom Monitoring System](https://github.com/isaiassolis/harmful-algal-bloom-monitoring-system)** | **Liderazgo técnico e ingeniería de hardware/software** para un sistema de monitoreo de marea roja: visión computacional, inferencia probabilística y dispositivo autónomo con georreferenciación, probado en campo. |
+| **[Exploración háptica de yacimientos](https://github.com/isaiassolis/haptic-reservoir-exploration)** | Participé como **líder técnico e ingeniero de hardware y software**. Desarrollamos una solución que evolucionó en tres fases, desde un prototipo con Phantom Desktop hasta un plugin para Petrel de Schlumberger. El proyecto fue presentado en la OTC. |
+| **[Simulación de logística de agua](https://github.com/isaiassolis/industrial-water-logistics-simulation)** | **Dirigí** un proyecto de simulación de operaciones de traslado de agua para la industria energética, integrando visualización, GIS y modelado matemático. Fue presentado en el **Congreso Mexicano del Petróleo 2019**. |
+| **[Predicción de calidad del crudo](https://github.com/isaiassolis/crude-oil-quality-prediction)** | Como **Gerente Técnico y coautor**, participé en un trabajo de investigación sobre predicción de calidad del crudo mediante Machine Learning y análisis de datos históricos, presentado en el **Congreso Mexicano del Petróleo 2019**. |
+| **[Monitoreo de marea roja](https://github.com/isaiassolis/harmful-algal-bloom-monitoring-system)** | Participé en el **liderazgo técnico y la ingeniería de hardware y software** de un sistema que evolucionó desde el laboratorio hasta un dispositivo autónomo probado en campo y comercializado a una empresa privada. |
 
-En estos repositorios distingo entre **propuestas de investigación, prototipos, productos desarrollados y resultados efectivamente verificados**. Los materiales industriales sensibles permanecen privados.
+## Inteligencia artificial y automatización
 
-## Inteligencia artificial y proyectos académicos
+Actualmente desarrollo y estudio aplicaciones de inteligencia artificial, aprendizaje automático, procesamiento de lenguaje natural y automatización de procesos.
 
-| Proyecto | Descripción |
+| Proyecto | Trabajo realizado |
 | :--- | :--- |
-| **[Automatic Planning — PDDL Rover](https://github.com/isaiassolis/automatic-planning-pddl-rover)** | Modelado de planificación automática en PDDL, experimentación con planificadores clásicos y visualizador interactivo. |
-| **[Banking77 — Transformer & LLM Error Analysis](https://github.com/isaiassolis/banking77-transformer-llm-error-analysis)** | Clasificación de 77 intenciones bancarias con DistilRoBERTa (**86.79 % de accuracy en prueba**) y análisis crítico de explicaciones generadas por LLM. **Resultado académico, no validado para producción.** |
-| **[Healthcare Content Automation](https://github.com/isaiassolis/healthcare-content-automation)** | Caso de automatización de contenido e investigación asistida con IA, con enfoque en procesos y revisión humana. |
+| **[Banking77 — Transformers y análisis de errores](https://github.com/isaiassolis/banking77-transformer-llm-error-analysis)** | Desarrollé experimentos de clasificación de intenciones bancarias con DistilRoBERTa y análisis de explicaciones generadas mediante LLM. El clasificador obtuvo **86.79 % de exactitud** y **86.02 % de F1 macro** en la evaluación académica documentada. |
+| **[Planificación automática con PDDL](https://github.com/isaiassolis/automatic-planning-pddl-rover)** | Trabajé en el modelado de escenarios Rover, experimentación con planificadores clásicos y desarrollo de un visualizador interactivo de planes. |
+| **[Automatización de contenidos](https://github.com/isaiassolis/healthcare-content-automation)** | He explorado la integración de herramientas de IA para apoyar la investigación, producción y revisión de contenidos, manteniendo la validación humana. |
 
-**En desarrollo académico:** modelo inteligente de **priorización explicable de alertas de ciberseguridad**, proyecto de la Maestría en IA.
+**Proyecto académico actual:** desarrollo de un **modelo inteligente de priorización explicable de alertas de ciberseguridad**, en el marco de la Maestría en Inteligencia Artificial.
 
-## Tecnologías y herramientas
+## Tecnologías y competencias
 
-**Desarrollo empresarial e ingeniería:** C# · .NET · Ocean SDK · ASP.NET MVC · Entity Framework · PostgreSQL + PostGIS · Microsoft Azure · Python · JavaScript · TypeScript · React · FastAPI · Git/GitHub · Docker.
+**Desarrollo empresarial:** C#, .NET, ASP.NET MVC, Entity Framework, PostgreSQL, PostGIS, Microsoft Azure y Ocean SDK.
 
-**IA, datos y automatización:** pandas · NumPy · scikit-learn · Machine Learning · LLM · PDDL · Power BI · R · n8n.
+**Desarrollo de software:** Python, JavaScript, TypeScript, React, FastAPI, SQLAlchemy, Git, GitHub y Docker.
 
-**Gestión y liderazgo:** dirección de proyectos TI · liderazgo de equipos · gestión de productos tecnológicos · Scrum · PMBOK · mejora de procesos · coordinación multidisciplinaria.
+**Inteligencia artificial y datos:** Machine Learning, modelos de lenguaje, PyTorch, Hugging Face, scikit-learn, pandas, NumPy, PDDL, Power BI y R.
 
-> Mi experiencia incluye tecnologías utilizadas en productos empresariales, herramientas de proyectos propios y áreas de formación en curso; no implica el mismo nivel de especialización en todas ellas.
+**Gestión tecnológica:** dirección de proyectos TI, liderazgo de equipos, gestión de productos, coordinación de infraestructura, integración de sistemas, Scrum y PMBOK.
 
-## Productos propios y prototipos recientes
+## Productos y desarrollos propios
 
-Además de los proyectos empresariales e industriales, desarrollo productos propios con foco en procesos operativos, aprendizaje y automatización.
+Paralelamente a mi trayectoria profesional, trabajo en productos propios con los que exploro nuevas arquitecturas, tecnologías y formas de resolver necesidades operativas y educativas.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3> Orqentia · ComunicAxion</h3>
+<h3>Orqentia · ComunicAxion</h3>
 <strong>Gestión de servicios técnicos</strong>
-<p>Prototipo full-stack para administrar recepciones, equipos, órdenes de servicio, cotizaciones y seguimiento operativo.</p>
-<p><strong>Tecnologías:</strong> React · TypeScript · FastAPI · SQLAlchemy</p>
-<p><strong>Estado:</strong> prototipo en desarrollo; código privado y capturas reales disponibles.</p>
+<p>Desarrollo un sistema para organizar el trabajo de talleres de servicio técnico: recepción de equipos, clientes, reparaciones, cotizaciones, autorizaciones, cargos y entregas.</p>
+<p><strong>Tecnologías:</strong> React · TypeScript · FastAPI · SQLAlchemy · SQLite</p>
+<p><strong>Estado:</strong> prototipo en desarrollo.</p>
 <p><a href="https://github.com/isaiassolis/comunicaxion-service-showcase"><strong>Ver proyecto y capturas →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3> Misión Olimpia</h3>
+<h3>Misión Olimpia</h3>
 <strong>Aprendizaje matemático interactivo</strong>
-<p>Plataforma educativa offline con retos de geometría, simulacro, recuperación de sesiones y gamificación.</p>
-<p><strong>Tecnologías:</strong> HTML · CSS · JavaScript · Node.js (pruebas)</p>
-<p><strong>Estado:</strong> prototipo funcional local; código privado y capturas reales disponibles.</p>
+<p>Desarrollé una plataforma educativa para apoyar sesiones de razonamiento matemático en primaria, con geometría, simulacros, seguimiento de actividades, recuperación de sesiones y gamificación.</p>
+<p><strong>Tecnologías:</strong> HTML · CSS · JavaScript</p>
+<p><strong>Estado:</strong> prototipo funcional local, sin conexión a internet.</p>
 <p><a href="https://github.com/isaiassolis/mision-olimpia-showcase"><strong>Ver proyecto y capturas →</strong></a></p>
 </td>
 </tr>
 </table>
 
-- **ComunicAxion Diagnostic & Recovery:** prototipo de diagnóstico y evidencias para Windows, con React, TypeScript, Tauri, Rust y Python; desarrollo privado.
-- **Mini ERP modular:** investigación y diseño arquitectónico en curso; no se presenta todavía como producto funcional.
-
-> Los casos públicos de Orqentia y Misión Olimpia documentan prototipos en evolución; no son demostraciones de despliegue comercial ni repositorios de código fuente.
+También desarrollo una herramienta de diagnóstico y recuperación para Windows y estudio la arquitectura de un **ERP modular**. Ambos forman parte de mis iniciativas actuales de desarrollo tecnológico.
 
 ## Formación y transferencia de conocimiento
 
-- **Maestría en Inteligencia Artificial — UNIR**, en curso.
-- **Ingeniería en Sistemas Computacionales — Instituto Tecnológico de Mérida**.
-- Experiencia como **docente y facilitador** en formación tecnológica, incluyendo programación, análisis de datos, herramientas de desarrollo, gestión ágil y tecnologías digitales.
+- **Ingeniería en Sistemas Computacionales** — Instituto Tecnológico de Mérida.
+- **Maestría en Ingeniería Mecatrónica** — estudios cursados.
+- **Maestría en Inteligencia Artificial** — UNIR, actualmente en curso.
+
+La enseñanza también forma parte de mi trayectoria. He impartido cursos y talleres sobre programación, análisis de datos, herramientas de desarrollo, gestión ágil y tecnologías digitales.
 
 ### Talleres prácticos de desarrollo con Unity y C#
 
-Como parte de mi experiencia como **instructor y facilitador**, utilicé proyectos de videojuegos 2D para enseñar conceptos de programación mediante ejercicios prácticos:
+Utilicé proyectos prácticos para enseñar programación y desarrollo de experiencias interactivas:
 
-| Material didáctico | Conceptos trabajados |
+| Taller | Contenidos |
 | :--- | :--- |
-| **[Chrome Dino · Unity 2D](https://github.com/isaiassolis/unity-2d-chrome-dino-workshop)** | Física y colisiones 2D, animaciones, obstáculos aleatorios, puntuación y control del juego. |
-| **[DrawFight · Plataformas 2D](https://github.com/isaiassolis/unity-2d-platformer-workshop)** | Movimiento de personajes, seguimiento de cámara, recolección, menús y estados de victoria y derrota. |
-| **[Memorias de Primavera · Novela visual](https://github.com/isaiassolis/unity-visual-novel-workshop)** | Taller de narrativa interactiva con Unity y Naninovel: diálogos, personajes, expresiones, decisiones y finales; incluye guía PDF y guion didáctico, sin redistribuir el framework comercial. |
-
-Estos repositorios documentan **material de apoyo utilizado en talleres**, no productos comerciales. Los talleres de videojuegos incluyen proyectos Unity y ejemplos en C#; el taller de novela visual ofrece un guion `.nani` y un tutorial PDF para usar con una instalación autorizada de Naninovel.
+| **[Chrome Dino con Unity 2D](https://github.com/isaiassolis/unity-2d-chrome-dino-workshop)** | Programación en C#, movimiento, física, colisiones y generación de obstáculos. |
+| **[DrawFight — Plataformas 2D](https://github.com/isaiassolis/unity-2d-platformer-workshop)** | Movimiento de personajes, cámara, recolección de objetos, menús y mecánicas de juego. |
+| **[Memorias de Primavera](https://github.com/isaiassolis/unity-visual-novel-workshop)** | Narrativa interactiva con Unity y Naninovel, decisiones ramificadas y un guion con múltiples desenlaces. |
 
 ## Contacto
+
+Me interesa colaborar en iniciativas relacionadas con **gerencia de tecnología, dirección de proyectos, desarrollo de productos de software, modernización de procesos e inteligencia artificial aplicada**.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaiassolisaranda/"><img src="https://img.shields.io/badge/LinkedIn-Perfil%20profesional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Isaías Solís" /></a>
   <a href="mailto:isolis151979@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto%20profesional-12395D?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a Isaías Solís" /></a>
   <a href="https://github.com/isaiassolis"><img src="https://img.shields.io/badge/GitHub-isaiassolis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Isaías Solís" /></a>
 </p>
+
+---
 
 <p align="center"><strong>Dirección tecnológica, desarrollo de productos e innovación para resolver problemas reales.</strong></p>

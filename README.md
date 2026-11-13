@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Technology-Leadership-12395D?style=for-the-badge" alt="Technology Leadership" />
-  <img src="https://img.shields.io/badge/Enterprise-Software-087F8C?style=for-the-badge" alt="Enterprise Software" />
-  <img src="https://img.shields.io/badge/Location-M%C3%A9xico-0B91A1?style=for-the-badge" alt="México" />
+  <strong>TECHNOLOGY LEADERSHIP</strong> &nbsp;·&nbsp; <strong>ENTERPRISE SOFTWARE</strong> &nbsp;·&nbsp; <strong>MÉXICO</strong>
 </p>
 
 ## Sobre mí

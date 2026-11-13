@@ -20,7 +20,7 @@ Soy **Isaías Solís**, ingeniero en Sistemas Computacionales con **más de 20 a
 
 Como **Gerente Técnico en Plenumsoft Energy & Sustainability**, dirigí el desarrollo de productos empresariales para la industria energética, entre ellos **HENDU**, **Regulation System SASISOPA** y **Galápago Performance Suite**. También lideré proyectos de tecnología especializada relacionados con **simulación industrial, interacción háptica, visualización científica y análisis de datos**.
 
-Mi experiencia combina una visión de negocio y gestión con conocimientos técnicos para llevar ideas desde la investigación y el prototipado hasta soluciones de software. Actualmente curso una **Maestría en Inteligencia Artificial en UNIR** y desarrollo proyectos de IA aplicada y automatización.
+Mi experiencia combina una visión de negocio y gestión con conocimientos técnicos para llevar ideas desde la investigación y el prototipado hasta soluciones de software. Curse una **maestría en Ingeniería Mecatrónica**, y actualmente curso una **Maestría en Inteligencia Artificial**, desarrollo proyectos de IA aplicada y automatización.
 
 **Áreas en las que puedo aportar valor:** gerencia de tecnología, dirección de proyectos TI, coordinación de desarrollo de software, integración de soluciones empresariales e innovación aplicada.
 

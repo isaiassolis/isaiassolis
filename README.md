@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Location-M%C3%A9xico-0B91A1?style=for-the-badge" alt="México" />
 </p>
 
-## 👋 Sobre mí
+## Sobre mí
 
 Soy **Isaías Solís**, ingeniero en Sistemas Computacionales con **más de 20 años de experiencia** en dirección de proyectos tecnológicos, liderazgo de equipos, ingeniería de hardware y software e innovación.
 
@@ -24,7 +24,7 @@ Mi experiencia combina una visión de negocio y gestión con conocimientos técn
 
 **Áreas en las que puedo aportar valor:** gerencia de tecnología, dirección de proyectos TI, coordinación de desarrollo de software, integración de soluciones empresariales e innovación aplicada.
 
-## 🏢 Productos empresariales y proyectos tecnológicos que dirigí
+## Productos empresariales y proyectos tecnológicos que dirigí
 
 Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**, participé en la dirección de productos de software y en la coordinación de proyectos multidisciplinarios para la industria energética. Los siguientes son **casos de estudio profesionales** de distintos alcances: desarrollo de producto, liderazgo técnico y gerencia integral.
 
@@ -63,9 +63,9 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 </tr>
 </table>
 
-> Estos repositorios son **casos de estudio**, no distribuciones de software propietario. La imagen de Galápago puede ser una recreación visual; la imagen de Litoteca es una recreación asistida por IA del tablero Kalan-Tun, no una captura documental exacta. Las responsabilidades individuales se documentan según mi experiencia profesional; las funciones de cada proyecto se contrastan con la documentación histórica disponible.
+> Estos repositorios son **casos de estudio**, no distribuciones de software propietario. Las responsabilidades individuales se documentan según mi experiencia profesional; las funciones de cada proyecto se contrastan con la documentación histórica disponible.
 
-## ⚙️ Ingeniería, innovación y proyectos industriales
+## Ingeniería, innovación y proyectos industriales
 
 | Caso de estudio | Aportación |
 | :--- | :--- |
@@ -76,7 +76,7 @@ Durante mi etapa como **Gerente Técnico en Plenumsoft Energy & Sustainability**
 
 En estos repositorios distingo entre **propuestas de investigación, prototipos, productos desarrollados y resultados efectivamente verificados**. Los materiales industriales sensibles permanecen privados.
 
-## 🤖 Inteligencia artificial y proyectos académicos
+## Inteligencia artificial y proyectos académicos
 
 | Proyecto | Descripción |
 | :--- | :--- |
@@ -86,7 +86,7 @@ En estos repositorios distingo entre **propuestas de investigación, prototipos,
 
 **En desarrollo académico:** modelo inteligente de **priorización explicable de alertas de ciberseguridad**, proyecto de la Maestría en IA.
 
-## 🧰 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 **Desarrollo empresarial e ingeniería:** C# · .NET · Ocean SDK · ASP.NET MVC · Entity Framework · PostgreSQL + PostGIS · Microsoft Azure · Python · JavaScript · TypeScript · React · FastAPI · Git/GitHub · Docker.
 
@@ -96,14 +96,14 @@ En estos repositorios distingo entre **propuestas de investigación, prototipos,
 
 > Mi experiencia incluye tecnologías utilizadas en productos empresariales, herramientas de proyectos propios y áreas de formación en curso; no implica el mismo nivel de especialización en todas ellas.
 
-## 🚀 Productos propios y prototipos recientes
+## Productos propios y prototipos recientes
 
 Además de los proyectos empresariales e industriales, desarrollo productos propios con foco en procesos operativos, aprendizaje y automatización.
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🔧 Orqentia · ComunicAxion</h3>
+<h3> Orqentia · ComunicAxion</h3>
 <strong>Gestión de servicios técnicos</strong>
 <p>Prototipo full-stack para administrar recepciones, equipos, órdenes de servicio, cotizaciones y seguimiento operativo.</p>
 <p><strong>Tecnologías:</strong> React · TypeScript · FastAPI · SQLAlchemy</p>
@@ -111,7 +111,7 @@ Además de los proyectos empresariales e industriales, desarrollo productos prop
 <p><a href="https://github.com/isaiassolis/comunicaxion-service-showcase"><strong>Ver proyecto y capturas →</strong></a></p>
 </td>
 <td width="50%" valign="top">
-<h3>🧩 Misión Olimpia</h3>
+<h3> Misión Olimpia</h3>
 <strong>Aprendizaje matemático interactivo</strong>
 <p>Plataforma educativa offline con retos de geometría, simulacro, recuperación de sesiones y gamificación.</p>
 <p><strong>Tecnologías:</strong> HTML · CSS · JavaScript · Node.js (pruebas)</p>
@@ -126,7 +126,7 @@ Además de los proyectos empresariales e industriales, desarrollo productos prop
 
 > Los casos públicos de Orqentia y Misión Olimpia documentan prototipos en evolución; no son demostraciones de despliegue comercial ni repositorios de código fuente.
 
-## 🎓 Formación y transferencia de conocimiento
+## Formación y transferencia de conocimiento
 
 - **Maestría en Inteligencia Artificial — UNIR**, en curso.
 - **Ingeniería en Sistemas Computacionales — Instituto Tecnológico de Mérida**.
@@ -144,7 +144,7 @@ Como parte de mi experiencia como **instructor y facilitador**, utilicé proyect
 
 Estos repositorios documentan **material de apoyo utilizado en talleres**, no productos comerciales. Los talleres de videojuegos incluyen proyectos Unity y ejemplos en C#; el taller de novela visual ofrece un guion `.nani` y un tutorial PDF para usar con una instalación autorizada de Naninovel.
 
-## 🤝 Contacto
+##  Contacto
 
 <p align="center">
   <a href="https://github.com/isaiassolis"><img src="https://img.shields.io/badge/GitHub-isaiassolis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Isaías Solís" /></a>
